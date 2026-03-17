@@ -100,3 +100,6 @@ Thumbs.db
 
 # Notebook outputs (optional)
 # If you want to ignore output cells, use tools like nbstripout instead
+
+# Ignore Quizzes
+quiz.ipynb
