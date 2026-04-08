@@ -102,8 +102,6 @@ Thumbs.db
 # If you want to ignore output cells, use tools like nbstripout instead
 
 # Ignore Quizzes
-01a_quiz.ipynb
-01b_quiz.ipynb
 02_quiz.ipynb
 03_quiz.ipynb
 04_quiz.ipynb
